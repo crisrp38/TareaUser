@@ -1,0 +1,1 @@
+INSERT INTO user(id,name,BirthDay) VALUES (1,'Cristina','2020-02-21')
